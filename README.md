@@ -11,4 +11,4 @@
 - 🎓 I hold a Bachelor’s degree in Electronic and Information Engineering from HK PolyU, graduating with First Class Honours.
 - 📫 How to reach me: 1037720176jessica@gmail.com
 
-**Fields of interest:** Social robotics, Service Robot, Human-Robot Interaction, Robotics Software, Computer Vision, NLP, Learning Control for robots
+**Fields of interest:** Social robotics, Service Robot, Human-Robot Interaction, Robotics Software, Robotics with Art, Computer Vision, NLP, Learning Control for robots
