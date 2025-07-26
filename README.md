@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🤔 I am looking for a full-time junior position in robotics.
+- 🤔 I am looking for a full-time position in robotics.
 - 🔭 I’m currently pursuing a Master's degree in Robotics @ EPFL.
 - 🏢 I completed my internship as a Robotics Intern in the Robotics & IoT Department at Hilti AG, Liechtenstein, and am now continuing for my Master’s thesis on the topic “Precise Positioning of a Long and Deflective Mobile 
      Manipulator at Ceiling Heights.”
